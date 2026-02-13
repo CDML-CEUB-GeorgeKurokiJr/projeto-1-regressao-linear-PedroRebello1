@@ -4,3 +4,6 @@
 # Running times for multiplying two 2048 x 2048 matrices using a GPU OpenCL SGEMM kernel with varying parameters (using the library 'CLTune').
 
 - https://archive.ics.uci.edu/dataset/440/sgemm+gpu+kernel+performance
+
+
+Initial analysis of the dataset was assisted by Data Wrangler extension, on VS Code.
